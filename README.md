@@ -5,3 +5,4 @@
 ### Chapter 2
 * [The 10-armed Testbed, Figure 2.2](chapter02/testbed.ipynb)
 * [Tracking a Nonstationary Problem, Exercise 2.5](chapter02/softmax.ipynb)
+* [Optimistic Initial Values, Figure 2.3](chapter02/optimistic.ipynb)
