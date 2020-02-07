@@ -4,7 +4,7 @@
 
 ### Chapter 2
 * [The 10-armed Testbed, Figure 2.2](chapter02/testbed.ipynb)
-* [Tracking a Nonstationary Problem, Exercise 2.5](chapter02/softmax.ipynb)
+* [Tracking a Nonstationary Problem, Exercise 2.5](chapter02/nonstationary.ipynb)
 * [Optimistic Initial Values, Figure 2.3](chapter02/optimistic.ipynb)
 * [Upper-Confidence-Bound Action Selection, Figure 2.4](chapter02/UCB.ipynb)
 * [Gradient Bandit Algorithms, Figure 2.5](chapter02/gradbandits.ipynb)
